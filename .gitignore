@@ -1,0 +1,26 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment folders
+venv/
+.env
+
+# Ignore API keys and secrets
+.env
+config.py
+
+# Ignore dataset files (if any)
+data/
+*.csv
+*.xlsx
+*.json
+
+# Ignore Streamlit and system cache files
+.streamlit/
+.DS_Store
+
+# Ignore Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
