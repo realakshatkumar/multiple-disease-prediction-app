@@ -70,9 +70,6 @@ streamlit run app.py
 
 ---
 
-## 🚀 Deployment
-This app is **deployed on Streamlit Cloud**. You can access it here:  
-🔗 **[Live App](https://multiple-disease-prediction-app.streamlit.app/)**
 
 For redeployment:
 ```bash
