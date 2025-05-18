@@ -69,7 +69,8 @@ streamlit run app.py
 4️⃣ Use the **AI-powered chatbot** for symptom checking.
 
 ---
-
+Live App:
+https://multiple-disease-prediction-app-01234.streamlit.app/
 
 For redeployment:
 ```bash
